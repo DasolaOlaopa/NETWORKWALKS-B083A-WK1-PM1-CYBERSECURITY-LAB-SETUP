@@ -29,5 +29,5 @@ Also, it can be used for activities like;
 * Security-tool experimentation
 ⚠️ It is important to note that this laboratory must only be used for systems that you own and have proper permission to test. Ensure not to use the lab or its tools to attack unauthorized systems.
 ## ⚙️ Lab Configure
-🧩 Component            ⚙️ Configuration 
+🧩 Component       |      ⚙️ Configuration 
 
