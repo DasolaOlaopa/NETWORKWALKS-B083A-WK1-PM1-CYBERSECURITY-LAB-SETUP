@@ -31,7 +31,10 @@ Also, it can be used for activities like;
 ## ⚙️ Lab Configure
 | 🧩 Component | ⚙️ Configuration | 
 |--------------|-------------------|
-| Row 1    | data     | data     |
-| Row 2    | data     | data     |
- Component       |       Configuration 
+| 💻 Host OS   | Windows 11        | 
+| 🧠 Host Ram  | 16 GB             | 
+| ⚡Processor  | Intel Core i7     |
+| 🧰 Hypervisor | VirtualBox 7.2    |
+| 🐉 Security OS |
+ 
 
