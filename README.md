@@ -8,4 +8,4 @@ The aim of the lab is to create a sandbox environment where cybersecurity tools,
 The lab is configured on a private virtual network to allow additional machines to be added later on and also used as targets for authorized security testing 
 ## 🎯 Objectives
 The major aim of this project is to;
-* 
+* .
