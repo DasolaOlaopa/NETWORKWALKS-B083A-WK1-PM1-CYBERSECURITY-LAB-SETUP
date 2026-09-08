@@ -52,5 +52,6 @@ VirtualBox was installed as the Hypervisor
 ## Step 3. Create the NAT Network
 A NAT Network was created in the VirtualBox
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Enabled
+NatNetwork.png
 
 
