@@ -68,4 +68,4 @@ Gateway: 10.0.0.1
 DNS: 8.8.8.8
 ```
 A static IP address makes it easier to document the lab and make reference to Kali machine in future exercises.
-
+![Editing wired connection](editing-wired-connections.png)
