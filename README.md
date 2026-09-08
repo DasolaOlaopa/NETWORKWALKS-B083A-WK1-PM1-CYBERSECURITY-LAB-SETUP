@@ -54,6 +54,8 @@ A NAT Network was created in the VirtualBox
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Enabled
 ![NAT Network settings](NatNetwork.png)
 A NAT Network was selected because it allows more than one virtual machines connected on the same NAT Network to communicate with each other while also having outbound network connection.
-
-
+This network makes room for future attacker and target VMs to communicate within the lab.
+## Step 4. Import Kali Linux
+Kali Linux virtual machine was downloaded from the official Kali Linux website and it was imported into VirtualBox.
+The VM network adapter was configured as follows:
 
