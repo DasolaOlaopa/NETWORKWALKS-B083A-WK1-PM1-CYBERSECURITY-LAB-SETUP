@@ -61,9 +61,9 @@ Kali Linux virtual machine was downloaded from the official Kali Linux website a
 
 The VM network adapter was configured as follows:
 
-\```
+```
 IP Address: 10.0.0.2
 Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 8.8.8.8
-\```
+```
