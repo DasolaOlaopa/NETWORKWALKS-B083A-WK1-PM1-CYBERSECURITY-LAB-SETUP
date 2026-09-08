@@ -44,5 +44,13 @@ Also, it can be used for activities like;
 | 🚪 Default Gateway | 10.0.0.1     |
 | 🌎 DNS Server      | 8.8.8.8      |
 # Lab Setup Procedure
+## Step 1. Install 7-Zip
+In order to extract the Kali Linux virtual machine package, 7-zip was installed to extract it, because the package downloaded as a .7z archive.
+Tool: 7-Zip
+## Step 2. Install Virtual Box
+VirtualBox was installed as the Hypervisor
+## Step 3. Create the NAT Network
+A NAT Network was created in the VirtualBox
+Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Enabled
 
 
