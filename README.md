@@ -70,3 +70,16 @@ DNS: 8.8.8.8
 A static IP address makes it easier to document the lab and make reference to Kali machine in future exercises.
 
 ![Editing wired connections](Editing-wired-connections.png)
+## Step 6. Create a Clean VM Snapshot
+After the successful configuration, a VirtualBox snapshot was created.
+The snapshot name:
+```
+New Kali Network Setup
+```
+
+This snapshot represents the clean baseline of the lab.
+
+In case of any future exercise alters the VM configuration, the machine can be restored back to this baseline.
+## Lab Verification
+|   Test        | Command      | Expected Result |
+|---------------|--------------|-----------------|
