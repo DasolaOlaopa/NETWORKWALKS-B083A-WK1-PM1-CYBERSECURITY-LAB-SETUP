@@ -2,11 +2,11 @@
 
 ## Cybersecurity Lab Environmental Setup
 Building an Isolated virtual lab built with VirtualBox and Kali Linux machine for Cyberscurity testing and penetration testing. 
-## 📌 Project Overview 
+## Project Overview 
 This project focuses on setting up a virtual cybersecurity and penetration-testing laboratory using VirtualBox and Kali Linux. 
 The aim of the lab is to create a sandbox environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security activities can be performed safely and frequently.
 The lab is configured on a private virtual network to allow additional machines to be added later on and also used as targets for authorized security testing 
-## 🎯 Objectives
+## Objectives
 The major aim of this project is to;
 * Install and configure VirtueBox
 * Install and Kali Linux as a virtual machine
@@ -17,7 +17,7 @@ The major aim of this project is to;
 * Take a snapshot of the VM for easy data recovery
 * Document the entire setup process
 * Prepare the environment for future cybersecurity projects
-## 🛡️Purpose of the lab
+## Purpose of the lab
 The lab supported an isolated and controlled environment for cybersecurity learning and authorized security testing.
 Also, it can be used for activities like;
 * Network reconnaissance
@@ -43,5 +43,6 @@ Also, it can be used for activities like;
 | 🦤 Kali IP Address | 10.0.0.2/24  |
 | 🚪 Default Gateway | 10.0.0.1     |
 | 🌎 DNS Server      | 8.8.8.8      |
- 
+# Lab Setup Procedure
+
 
