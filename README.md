@@ -83,12 +83,12 @@ In case of any future exercise alters the VM configuration, the machine can be r
 ## Lab Verification
 |   Test        | Command      | Expected Result |
 |---------------|--------------|-----------------|
-| Check IP Address | ``ip a`` | Correct Kali IP address displayed|
-| Test Gateway| ``ping 10.0.0.1`` | Successful replies|
-| Test Internet Connectivity| ``ping 8.8.8.8``| Successful replies|
-|Test DNS resolution| ``nslookup networkwalks.com``| Domain resolves|
-| Verify Nmap| ``nmap --version`` | Nmap version displayed|
-| Verify snapshot| Restore snapshot and run ``ip a``| Baseline configuration restored|
+| 🌎 Check IP Address | ``ip a`` | Correct Kali IP address displayed|
+| 📡 Test Gateway| ``ping 10.0.0.1`` | Successful replies|
+| 🌎 Test Internet Connectivity| ``ping 8.8.8.8``| Successful replies|
+| 🔎 Test DNS resolution| ``nslookup networkwalks.com``| Domain resolves|
+| 🧰 Verify Nmap| ``nmap --version`` | Nmap version displayed|
+| 🔄 Verify snapshot| Restore snapshot and run ``ip a``| Baseline configuration restored|
 ## Example Results
 ```
 IP Address:
@@ -135,4 +135,8 @@ No releases published
 ### Packages
 No packages published
 ### Contributors
+
+GitHub: <https://github.com/DasolaOlaopa> Dasola Olaopa
+### Acknowledgement 
+This project's structure and documentation structure was inspired by Waqas Karim CCIE
 
