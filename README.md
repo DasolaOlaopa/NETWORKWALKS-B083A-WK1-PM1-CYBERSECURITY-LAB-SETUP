@@ -83,3 +83,4 @@ In case of any future exercise alters the VM configuration, the machine can be r
 ## Lab Verification
 |   Test        | Command      | Expected Result |
 |---------------|--------------|-----------------|
+| Check IP Address | ``ip a`` | Correct Kali IP address displayed|
