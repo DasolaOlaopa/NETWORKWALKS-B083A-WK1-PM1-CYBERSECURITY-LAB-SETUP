@@ -84,3 +84,10 @@ In case of any future exercise alters the VM configuration, the machine can be r
 |   Test        | Command      | Expected Result |
 |---------------|--------------|-----------------|
 | Check IP Address | ``ip a`` | Correct Kali IP address displayed|
+| Test Gateway| ``ping 10.0.0.1`` | Successful replies|
+| Test Internet Connectivity| ``ping 8.8.8.8``| Successful replies|
+|Test DNS resolution| ``nslookup networkwalks.com``| Domain resolves|
+| Verify Nmap| ``nmap --version`` | Nmap version displayed|
+| Verify snapshot| Restore snapshot and run ``ip a``| Baseline configuration restored|
+
+
