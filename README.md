@@ -90,4 +90,4 @@ In case of any future exercise alters the VM configuration, the machine can be r
 | Verify Nmap| ``nmap --version`` | Nmap version displayed|
 | Verify snapshot| Restore snapshot and run ``ip a``| Baseline configuration restored|
 ## Example Results
-
+``  ``
