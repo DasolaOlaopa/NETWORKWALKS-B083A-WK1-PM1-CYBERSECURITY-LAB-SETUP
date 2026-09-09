@@ -90,4 +90,14 @@ In case of any future exercise alters the VM configuration, the machine can be r
 | Verify Nmap| ``nmap --version`` | Nmap version displayed|
 | Verify snapshot| Restore snapshot and run ``ip a``| Baseline configuration restored|
 ## Example Results
-``  ``
+```
+IP Address:
+10.0.0.2/24
+
+Gateway ;
+10.0.0.1
+
+DNS:
+8.8.8.8
+```
+
