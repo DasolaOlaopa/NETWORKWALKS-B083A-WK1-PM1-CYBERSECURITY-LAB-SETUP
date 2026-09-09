@@ -122,3 +122,9 @@ This laboratory is only for education purposes only.
 * 7-Zip: https://7-zip.org/download.html
 * VirtualBox: https://virtualbox.org/wiki/Downloads
 * Kali Linux: https://kali.org/get-kali
+# Author
+Dasola Olaopa
+Cybersecurity Professional B083
+
+LinkedIn: https://www.linkedin.com/in/olaopadasola/
+
