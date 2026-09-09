@@ -100,5 +100,25 @@ Gateway ;
 DNS:
 8.8.8.8
 ```
-### What I Learned 
-
+# What I Learned 
+During the course of this project, I learned how to create and configure a virtual environment for cybersecurity practice.
+The main concepts I learned were:
+## 1. NAT vs NAT Network
+A NAT configuration and a NAT Network have different purposes
+NAT configuration allows internet access but does not give access to machines on the VM to communicate with each other. NAT Network allows more than 1 machines to communicate with each other, it also allows internet access.
+This makes it an integral part of building a multi-machine cybersecurity laboratory.
+## 2. Virtual Machine Networking
+I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and also how a network configuration affects how machines communicate with each other.
+## 3. Static IP Configuration
+I learned how to configure and verify a static IPv4, subnet masks, gateways and DNS settings in Kali Linux.
+## 4. VM Snapshots
+I learned that it is important to create a clean snapshot should be created before performing risky activities.
+This makes recovery easy for future tasks.
+## 5. Documentation
+I learned that documenting commands, configuration, screenshots, problems and solution is a very important part of professional cybersecurity project.
+# Security & Ethical Use
+This laboratory is only for education purposes only.
+# Tools & Resources
+* 7-Zip: https://7-zip.org/download.html
+* VirtualBox: https://virtualbox.org/wiki/Downloads
+* Kali Linux: https://kali.org/get-kali
